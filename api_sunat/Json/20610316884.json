@@ -1,0 +1,20 @@
+[
+    {
+        "rucEmisor": "20610316884",
+        "razEmisor": "MYTEMS E.I.R.L.",
+        "direccionEmisor": "JR MANCO CAPAC 452",
+        "paisEmisor": "PE",
+        "ubigeoEmisor": "220501",
+        "depEmisor": "San Martin",
+        "provEmisor": "Lamas ",
+        "distEmisor": "Lamas",
+        "comercialEmisor": "MYTEMS E.I.R.L.",
+        "urbEmisor": "-",
+        "userSol": "TVlURU1TMjAyMw==",
+        "claveSol": "TXl0ZW1zMjM=",
+        "nomCertificado": "MjA2MTAzMTY4ODQucGZ4",
+        "clavCertificado": "bXl0ZW1zMjAyMg==",
+        "localEmisor": "0000",
+        "servidorSunat": "3"
+    }
+]
